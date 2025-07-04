@@ -7,8 +7,8 @@ import Origin from "../../components/Origin/Origin";
 import Overview from "../../components/Overview/Overview";
 import Roadmap from "../../components/Roadmap/Roadmap";
 import Traits from "../../components/Traits/Traits";
+import Content from "../../components/Content/Content";
 import "./Home.css";
-
 export default function Home() {
   return (
     <>
