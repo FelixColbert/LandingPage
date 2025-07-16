@@ -1,7 +1,7 @@
 This repository showcases a couple of frontend projects developed for clients. Each project demonstrates a unique set of skills and technologies used to meet the client's requirements.
 
 #### Most of the stack used:
-- Html/css/js
+- Html/css/js/javascript
 - Reactjs
 - SASS/SCSS
 - AOS Library
